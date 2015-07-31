@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: germany, | Roman's Romance]]></title>
+  <link href="http://fatroom.github.io/blog/categories/germany/atom.xml" rel="self"/>
+  <link href="http://fatroom.github.io/"/>
+  <updated>2015-07-31T14:25:09+00:00</updated>
+  <id>http://fatroom.github.io/</id>
+  <author>
+    <name><![CDATA[Roman Romanchuk]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Возрождение блога]]></title>
+    <link href="http://fatroom.github.io/blog/2015/07/31/like-a-fenix/"/>
+    <updated>2015-07-31T13:18:00+00:00</updated>
+    <id>http://fatroom.github.io/blog/2015/07/31/like-a-fenix</id>
+    <content type="html"><![CDATA[<p>Внезапно пришло желание рассказать о том что происходит в моей жизни.</p>
+
+<ul>
+  <li>Теперь я в Берлине.</li>
+  <li>Спустя три года после переезда, получил разрешение на постоянное проживание.</li>
+  <li>Получил сертификат дайвинга OWD и планирую пройти курс AOWD. </li>
+  <li>Очень хочу научиться летать, наверное опишу процесс в других постах.</li>
+  <li>Начал учить немецкий более серьезно чем два часа в неделю.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

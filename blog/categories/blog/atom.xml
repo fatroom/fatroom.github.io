@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: blog | Roman's Romance]]></title>
+  <link href="http://fatroom.github.io/blog/categories/blog/atom.xml" rel="self"/>
+  <link href="http://fatroom.github.io/"/>
+  <updated>2015-07-31T14:25:09+00:00</updated>
+  <id>http://fatroom.github.io/</id>
+  <author>
+    <name><![CDATA[Roman Romanchuk]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Переезд блога]]></title>
+    <link href="http://fatroom.github.io/blog/2013/02/17/relocation/"/>
+    <updated>2013-02-17T10:47:00+00:00</updated>
+    <id>http://fatroom.github.io/blog/2013/02/17/relocation</id>
+    <content type="html"><![CDATA[<p>Вот наступила пора в очередной раз изменить платформу для блога. Все началось с ЖЖ, из которого я ушел в автономный Blogger, но поддавшись веянию автоматизации всего и вся перешел на Posterous, в который можно было отправлять записи из почтового клиента. </p>
+
+<p>К сожалению, некоторое время назад, твиттер приобрел этот сервис, после чего развитие остановилось.
+Теперь остановка развития подошла к следующему логичному шагу - закрытию сервиса.
+Это уже не первый раз, когда большие компании покупают маленькие и закрывают их проекты. 
+С одной стороны вроде бы и причины ясны, а с другой все равно жаль.</p>
+
+<p>Posterous предлагает замечательную функцию экспорта данных, но с кирилицей эта функция не дружит.</p>
+]]></content>
+  </entry>
+  
+</feed>

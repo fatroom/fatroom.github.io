@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: linklog | Roman's Romance]]></title>
+  <link href="http://fatroom.github.io/blog/categories/linklog/atom.xml" rel="self"/>
+  <link href="http://fatroom.github.io/"/>
+  <updated>2015-07-31T14:25:09+00:00</updated>
+  <id>http://fatroom.github.io/</id>
+  <author>
+    <name><![CDATA[Roman Romanchuk]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Как появляются профессиональные любители]]></title>
+    <link href="http://fatroom.github.io/blog/2013/04/22/rise-of-the-expert-beginner/"/>
+    <updated>2013-04-22T21:20:00+00:00</updated>
+    <id>http://fatroom.github.io/blog/2013/04/22/rise-of-the-expert-beginner</id>
+    <content type="html"><![CDATA[<p>Очень хорошая статья о том как люди замирают на каком-либо уровне.
+Если быть точным - на уровне профессиональных любителей.</p>
+
+<p>Если выделить самое главное, то это идея — никогда не останавливайся, и не бойся возвращаться назад.</p>
+
+<p>Полный текст доступен по ссылке: <a href="http://www.daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner">http://www.daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner</a></p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[100 правил хорошего обеда]]></title>
+    <link href="http://fatroom.github.io/blog/2013/04/12/rules-of-dinner/"/>
+    <updated>2013-04-12T21:49:00+00:00</updated>
+    <id>http://fatroom.github.io/blog/2013/04/12/rules-of-dinner</id>
+    <content type="html"><![CDATA[<p>Совершенно случайно увидел отличный пост о 100 правилах хорошего обеда.
+Я не буду переводить их все, но приведу несколько для подогрева интереса к <a href="http://www.dinneralovestory.com/100-rules-of-dinner/">оригинальному посту</a>.</p>
+
+<ul>
+  <li>Нет ничего печальнее чем кусочек пирога без мороженного</li>
+  <li>Почти все детские проблемы можно решить мгновенно с помощью шоколадных блинчиков в субботнее утро</li>
+  <li>Десертом должен быть кусочек торта</li>
+  <li>Чем проще рецепт - тем больше шансов приготовить блюдо </li>
+</ul>
+
+<p>И еще одино правило, которое я поддерживаю всем сердцем, но забываю ему следовать:</p>
+
+<blockquote>
+  <p>Если кто-то приготовил для вас обед, пусть даже не самый лучший в вашей жизни, но вложил в него усилия, время и любовь, скажите: “Спасибо! Это было прекрасно…”</p>
+</blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Дзен git]]></title>
+    <link href="http://fatroom.github.io/blog/2013/04/09/git-koans/"/>
+    <updated>2013-04-09T22:04:00+00:00</updated>
+    <id>http://fatroom.github.io/blog/2013/04/09/git-koans</id>
+    <content type="html"><![CDATA[<p>Git — система контроля версий, которую я люблю и давно использую.
+Но для получения удовольствия от работы с ней нужно придерживаться некоего рекомендованного пути использования.
+Кажется, к подобному выводу пришел не только я.
+В результате этого появились <a href="http://stevelosh.com/blog/2013/04/git-koans">коаны git</a>.</p>
+
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: quiz | Roman's Romance]]></title>
+  <link href="http://fatroom.github.io/blog/categories/quiz/atom.xml" rel="self"/>
+  <link href="http://fatroom.github.io/"/>
+  <updated>2015-07-31T14:25:09+00:00</updated>
+  <id>http://fatroom.github.io/</id>
+  <author>
+    <name><![CDATA[Roman Romanchuk]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Мы уже прилетели?]]></title>
+    <link href="http://fatroom.github.io/blog/2013/03/24/altitude-quiz/"/>
+    <updated>2013-03-24T16:43:00+00:00</updated>
+    <id>http://fatroom.github.io/blog/2013/03/24/altitude-quiz</id>
+    <content type="html"><![CDATA[<p>Иногда, когда пользователи нашего сервиса не рассказывают о том у них ничего не работает, они задают странные вопросы.
+Например, недавно кто-то выдал задачу о самолетах.</p>
+
+<blockquote>
+  <p>Cамолет взлетает с аэродрома и поддерживает постоянный угол атаки двигаясь с определенной скоростью. 
+Через какое время он вылетит за пределы атмосферы?</p>
+</blockquote>
+
+<p>Объяснять законы аэродинамики в коментариях к задаче мне было лень, но зато не лень было проверить ответ опытным путем в авиасимуляторе. </p>
+
+<p>А вот и иллюстрация ответа “никогда”</p>
+
+<p><img src="/images/posts/2013-03-24-altitude-quiz.png"></p>
+
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: career | Roman's Romance]]></title>
+  <link href="http://fatroom.github.io/blog/categories/career/atom.xml" rel="self"/>
+  <link href="http://fatroom.github.io/"/>
+  <updated>2015-07-31T14:25:09+00:00</updated>
+  <id>http://fatroom.github.io/</id>
+  <author>
+    <name><![CDATA[Roman Romanchuk]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Как появляются профессиональные любители]]></title>
+    <link href="http://fatroom.github.io/blog/2013/04/22/rise-of-the-expert-beginner/"/>
+    <updated>2013-04-22T21:20:00+00:00</updated>
+    <id>http://fatroom.github.io/blog/2013/04/22/rise-of-the-expert-beginner</id>
+    <content type="html"><![CDATA[<p>Очень хорошая статья о том как люди замирают на каком-либо уровне.
+Если быть точным - на уровне профессиональных любителей.</p>
+
+<p>Если выделить самое главное, то это идея — никогда не останавливайся, и не бойся возвращаться назад.</p>
+
+<p>Полный текст доступен по ссылке: <a href="http://www.daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner">http://www.daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner</a></p>
+
+]]></content>
+  </entry>
+  
+</feed>
