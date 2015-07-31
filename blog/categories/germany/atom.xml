@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: germany, | Roman's Romance]]></title>
+  <title><![CDATA[Category: germany | Roman's Romance]]></title>
   <link href="http://fatroom.github.io/blog/categories/germany/atom.xml" rel="self"/>
   <link href="http://fatroom.github.io/"/>
-  <updated>2015-07-31T14:35:07+00:00</updated>
+  <updated>2015-07-31T14:40:27+00:00</updated>
   <id>http://fatroom.github.io/</id>
   <author>
     <name><![CDATA[Roman Romanchuk]]></name>
@@ -27,6 +27,79 @@
   <li>Очень хочу научиться летать, наверное опишу процесс в других постах.</li>
   <li>Начал учить немецкий более серьезно чем два часа в неделю.</li>
 </ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Календарь публичных праздников земли Хессен-2014]]></title>
+    <link href="http://fatroom.github.io/blog/2014/02/19/hessen-calendar-2014/"/>
+    <updated>2014-02-19T20:08:00+00:00</updated>
+    <id>http://fatroom.github.io/blog/2014/02/19/hessen-calendar-2014</id>
+    <content type="html"><![CDATA[<p>Продолжая традицию с прошлого года, я вновь выложу календарь праздников для нашей земли.
+Кто подписался в прошлом году – делать ничего не нужно, календарь получил обновление автоматически.</p>
+
+<p>Забирать можно <a href="https://dl.dropboxusercontent.com/u/20875/Hesse%20Public%20Holidays-2014.ics">ICS-файл</a>, или подписаться <a href="webcal://p02-calendarws.icloud.com/ca/subscribe/1/Gzg82hRATjfJ01-Wcgt0IzL5jqsvkTYLJYo0q2koQbd-ND5rHFLiGdpHX7lClv6Nb1AxdAM77ltOp0JUSAaVA1mnxXZ_BYIz9qM1VLansEs">здесь</a></p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Поломки общественного транспорта]]></title>
+    <link href="http://fatroom.github.io/blog/2013/04/07/public-transport-outage/"/>
+    <updated>2013-04-07T12:27:00+00:00</updated>
+    <id>http://fatroom.github.io/blog/2013/04/07/public-transport-outage</id>
+    <content type="html"><![CDATA[<p>Иногда случаются перебои в обслуживании транспортных нужд населения.
+Если перерывы запланированные то о них постоянно предупреждают на станциях метро или автобусных остановках.
+Но иногда случаются непредвиденные перебои.</p>
+
+<p>Непредвиденные ситуации пока что я видел двух типов.
+Первое — отключение электроэнергии.
+Второе — так называемое, “зима пришла, ее не ждали”.</p>
+
+<p>Если изменения маршрутов вызвано ремонтными работами на станциях — организация обслуживающая метро организовывает сообщение между соседними станциями с помощью автобусов. 
+Но, недавно я в поезде метро услышал объявление в духе “поезд дальше не поедет, пожалуйста, используйте такси”.</p>
+
+<p>После долгой борьбы жадности и лени в моей душе победила лень. 
+Поэтому пошел с толпой паcсажиров из моего вагона метро искать такси.
+Оказалось что в связи с непредвиденной поломкой поезда, организация обслуживающая метро договорилась с местной службой такси, и паcсажиры бесплатно продолжали путь мимо заблокированного участка дороги на такси.</p>
+
+<p>Процесс перевозки я не сфотографировал, поэтому иллюстрацией будет вход на одну из станций метро.</p>
+
+<p><img src="/images/posts/2013-04-07-bockenheimer-warte.jpeg"> </p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Почтовые чудеса]]></title>
+    <link href="http://fatroom.github.io/blog/2013/04/01/post-package/"/>
+    <updated>2013-04-01T20:22:00+00:00</updated>
+    <id>http://fatroom.github.io/blog/2013/04/01/post-package</id>
+    <content type="html"><![CDATA[<p>Немецкая почта по прежнему не перестает удивлять.</p>
+
+<p>Недавно пришло письмо от страховой компании с просьбой уточнить информацию и отправить обратно ответ.
+Для обратного ответа даже предоставили конверт с обратным адресом и надписью вместо марки, которую я до этого не встречал.
+Показал этот конверт коллеге и она меня просветила что это обозначало “наклейте марку, если она у вас есть”.</p>
+
+<p>А на приложенной фотографии - небольшая посылка упакованная местной почтой.
+Коллега заказывал себе флешку. 
+Флешка была в конверте, а конверт в коробке.</p>
+
+<p><img src="/images/posts/2013-04-01-post-package.jpeg"></p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Календарь публичных праздников земли Хессен 2013]]></title>
+    <link href="http://fatroom.github.io/blog/2013/03/18/hessen-calendar-2013/"/>
+    <updated>2013-03-18T22:26:00+00:00</updated>
+    <id>http://fatroom.github.io/blog/2013/03/18/hessen-calendar-2013</id>
+    <content type="html"><![CDATA[<p>В прошлом году я выкладывал <a href="/blog/2012/08/04/hessen-calendar-2012/">календарь праздников для нашей земли</a>.
+Пришло время его обновить.
+Если подписывались ранее - делать ничего не нужно, обновления приедут сами.</p>
+
+<p>Забирать можно <a href="https://dl.dropbox.com/u/20875/Hesse%20Public%20Holidays%20-%202013.ics">ICS-файл</a>, или подписаться <a href="webcal://p02-calendarws.icloud.com/ca/subscribe/1/Gzg82hRATjfJ01-Wcgt0IzL5jqsvkTYLJYo0q2koQbd-ND5rHFLiGdpHX7lClv6Nb1AxdAM77ltOp0JUSAaVA1mnxXZ_BYIz9qM1VLansEs">здесь</a></p>
 
 ]]></content>
   </entry>
