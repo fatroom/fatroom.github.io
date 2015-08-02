@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: education, | Roman's Romance]]></title>
+  <link href="http://fatroom.github.io/blog/categories/education/atom.xml" rel="self"/>
+  <link href="http://fatroom.github.io/"/>
+  <updated>2015-08-02T15:35:35+00:00</updated>
+  <id>http://fatroom.github.io/</id>
+  <author>
+    <name><![CDATA[Roman Romanchuk]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Время необходимое для изучения языка]]></title>
+    <link href="http://fatroom.github.io/blog/2015/08/02/language-scales/"/>
+    <updated>2015-08-02T14:53:00+00:00</updated>
+    <id>http://fatroom.github.io/blog/2015/08/02/language-scales</id>
+    <content type="html"><![CDATA[<p>Для определения уровня владения языком существует множество систем градации.
+CEFR, TOEFL, TOEIC, IELTS, Cambridge и еще немножко.
+В Европе принято использовать CEFR – Common European Framework of Reference for Languages. 
+Эта шкала состоит из 6 уровней, где каждый из уровней соответствует какому-то определенному набору навыков и умений применительно к языку.
+В среднем на изучение одного уровня требуется около 100 часов.
+Итого для того что бы овладеть языком на уровне переводчика – необходимо затратить всего-лишь 600 часов.
+Общение на относительно свободом уровне достигается за 400 часов.</p>
+
+<p>Правда тут появляется проблема – для достижения результатов необходимо что бы это время не было растянуто. 
+Если заниматься час-два в неделю, то изучение языка, с нуля до уровня на котором можно общаться, займет множество лет.
+У кого хватит мотивации ждать несколько лет до появления результата? </p>
+
+<p>Последние несколько лет мои работодатели предоставляли возможность учить язык в офисе.
+Но это были те самые пару часов в неделю, поэтому особого прогресса не было.</p>
+
+<p>Попробую это исправить.</p>
+
+]]></content>
+  </entry>
+  
+</feed>
