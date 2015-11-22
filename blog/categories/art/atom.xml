@@ -4,7 +4,7 @@
   <title><![CDATA[Category: art | Roman's Romance]]></title>
   <link href="http://fatroom.github.io/blog/categories/art/atom.xml" rel="self"/>
   <link href="http://fatroom.github.io/"/>
-  <updated>2015-08-29T19:59:11+00:00</updated>
+  <updated>2015-11-22T19:51:32+00:00</updated>
   <id>http://fatroom.github.io/</id>
   <author>
     <name><![CDATA[Roman Romanchuk]]></name>
@@ -30,7 +30,7 @@
 Но этот макет сделан по плану главного архитектора города.
 А план был создан в 1920 году.</p>
 
-<p><img src="/images/posts/city_plan.jpeg"></p>
+<p>{% img /images/posts/city_plan.jpeg %}</p>
 
 ]]></content>
   </entry>
@@ -45,7 +45,7 @@
 Прекрасный вечер проведенный в старом оперном театре, внутри которого стучали, хлопали, шуршали пакетами и газетами прямо на сцене.
 Вот небольшой кусочек выступления, который дает понять о чем это все </p>
 
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/Az2qI5cEwLk "></iframe></div> </p>
+<p>{% youtube Az2qI5cEwLk %} </p>
 ]]></content>
   </entry>
   

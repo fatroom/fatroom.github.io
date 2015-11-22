@@ -4,7 +4,7 @@
   <title><![CDATA[Category: transport | Roman's Romance]]></title>
   <link href="http://fatroom.github.io/blog/categories/transport/atom.xml" rel="self"/>
   <link href="http://fatroom.github.io/"/>
-  <updated>2015-08-29T19:59:11+00:00</updated>
+  <updated>2015-11-22T19:51:32+00:00</updated>
   <id>http://fatroom.github.io/</id>
   <author>
     <name><![CDATA[Roman Romanchuk]]></name>
@@ -25,7 +25,7 @@
 Все это сопровождалось классическими немецкими сосисками и пивом, впрочем без них не обходится ни один местный праздник.
 Последний раз подобное мероприятие проводилось 10 лет назад, так что следующий раз - будет неизвестно когда.</p>
 
-<p><img src="/images/posts/lila-vgf.jpeg"></p>
+<p>{% img /images/posts/lila-vgf.jpeg %}</p>
 ]]></content>
   </entry>
   

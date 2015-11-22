@@ -4,7 +4,7 @@
   <title><![CDATA[Category: travel | Roman's Romance]]></title>
   <link href="http://fatroom.github.io/blog/categories/travel/atom.xml" rel="self"/>
   <link href="http://fatroom.github.io/"/>
-  <updated>2015-08-29T19:59:11+00:00</updated>
+  <updated>2015-11-22T19:51:32+00:00</updated>
   <id>http://fatroom.github.io/</id>
   <author>
     <name><![CDATA[Roman Romanchuk]]></name>
@@ -49,7 +49,7 @@
 Идеальным блюдом были канелони с свежим сыром и шпинатом.
 Выглядело это как канелони, начиненные сыром, залитые расплавленным сыром. </p>
 
-<p><img src="/images/posts/heidelberg.jpeg"></p>
+<p>{% img /images/posts/heidelberg.jpeg %}</p>
 ]]></content>
   </entry>
   
@@ -96,7 +96,7 @@
 
 <p>А после прогулки по каналам пришла пора грузится в поезд и ехать обратно в Германию.</p>
 
-<p><img src="/images/posts/amsterdam.jpeg"></p>
+<p>{% img /images/posts/amsterdam.jpeg %}</p>
 ]]></content>
   </entry>
   
